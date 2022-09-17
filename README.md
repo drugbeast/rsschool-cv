@@ -1,2 +1,2 @@
 # rsschool-cv
-https://drugbeast.github.io/rsschool-cv/cv
+https://drugbeast.github.io/rsschool-cv/
