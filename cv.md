@@ -4,9 +4,9 @@
 ************************
 ### Contacts
 E-mail: limotshow@gmail.com  
-Phone: *+375 (44) 741-29-54*  
+Phone: *+375 (44) 456-89-10*  
 Telegram: *@drugbeast1*  
-Vk: *@drugbeast*  
+Vk: *@drugbeast*
 RS School Discord Server: Matvey(@drugbeast)  
 ************************
 ### Something about me
