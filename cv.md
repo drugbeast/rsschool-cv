@@ -10,7 +10,7 @@ Vk: *@drugbeast*
 RS School Discord Server: Matvey(@drugbeast)  
 ************************
 ### Something about me
-I will not dissemble, my professional path is just beginning. I am still very young, I am 18 years old, and today I see the main goal of my work as the comprehensive development of personal qualities, as well as finding new and interesting acquaintances.  
+I will not dissemble, my professional path is just beginning. I am still very young, I am 18 years old, I am from Gomel, Belarus, and today I see the main goal of my work as the comprehensive development of personal qualities, as well as finding new and interesting acquaintances.  
 
 As for my strengths, I can mention diligence, calmness, non-conflict, diplomacy, and the ability to work competently in a team. I wanted to try myself as a developer for a long time. Even as a child, I was interested in the field of creating websites and their design. It follows from this that my priority area of activity is the development of Internet applications.  
 ************************
