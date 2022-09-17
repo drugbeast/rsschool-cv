@@ -15,7 +15,7 @@ I will not dissemble, my professional path is just beginning. I am still very yo
 As for my strengths, I can mention diligence, calmness, non-conflict, diplomacy, and the ability to work competently in a team. I wanted to try myself as a developer for a long time. Even as a child, I was interested in the field of creating websites and their design. It follows from this that my priority area of activity is the development of Internet applications.  
 ************************
 ### Skills
-* HTML, CSS, XML
+* HTML, CSS
 * Git basics, GitHub, Linux
 * JS basics, C++, React basics
 * VS Code, Adobe Photoshop, Illustrator, Visual Studio  
